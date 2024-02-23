@@ -1,6 +1,7 @@
+#define EFFECT vec3(112., 94., 48.) // #705e30
+#define CHROME vec3(112., 94., 80.) // #705e50
 #define T vec3(76., 64., 22.) // #4C4016 T for transparent
 
-// Checks if a colour with RGBA is equal to a colour with RGB
 bool isColor(vec4 originColor, vec3 color) {
     return (originColor*255.).xyz == color;
 }
@@ -11,6 +12,10 @@ vec4 getShadow(vec3 color) {
 
 bool isShadow(vec4 originColor, vec3 color) {
     return originColor.xyz == getShadow(color).xyz;
+}
+
+bool isEither(vec4 originColor, vec3 color) {
+    return isShadow(originColor, color) || isColor(originColor, color);
 }
 
 vec3 hsv2rgb(vec3 c) {

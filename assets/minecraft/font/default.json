@@ -1,7 +1,5 @@
 {
     "providers": [
-        // UNCOMMENT ON RELEASE!!!
-        // {"type":"bitmap", "file":"font/negative.png", "ascent":-20000, "height":-10002, "chars":["→"]},
         {"type":"bitmap", "file":"font/emotes/faces.png","ascent":7, "height":8, "chars":
             ["\ue000\ue001\ue002\ue003",
              "\ue004\ue005\ue006\ue007",
@@ -31,9 +29,7 @@
              "\ue304\ue305\ue306\ue307"]
         },
         {"type":"bitmap","file":"font/emotes/floophead.png", "ascent":7, "height":8, "chars":["\uefff"]},
-        {"type":"bitmap","file":"font/emotes/xtreemes.png", "ascent":7, "height":8, "chars":["\ueeff"]},
         {"type":"bitmap","file":"font/emotes/endersaltz.png", "ascent":7, "height":8, "chars":["\ueeef"]},
-        {"type":"bitmap","file":"font/emotes/pixlii.png", "ascent":7, "height":8, "chars":["\ueeee"]},
         
         {"type":"bitmap","file":"font/leftwards_double_arrow.png", "ascent":7, "height":8, "chars":["⇐"]}
     ]
