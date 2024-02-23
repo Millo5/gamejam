@@ -1,0 +1,40 @@
+{
+    "providers": [
+        // UNCOMMENT ON RELEASE!!!
+        // {"type":"bitmap", "file":"font/negative.png", "ascent":-20000, "height":-10002, "chars":["→"]},
+        {"type":"bitmap", "file":"font/emotes/faces.png","ascent":7, "height":8, "chars":
+            ["\ue000\ue001\ue002\ue003",
+             "\ue004\ue005\ue006\ue007",
+             "\ue008\ue009\ue010\ue011",
+             "\ue012\ue013\ue014\ue015",
+             "\ue016\ue017\ue018\ue019",
+             "\ue020\ue021\ue022\ue023",
+             "\ue024\ue025\ue026\ue027",
+             "\ue028\ue029\ue030\ue031"]
+        },
+        {"type":"bitmap", "file":"font/emotes/icons.png","ascent":7, "height":8, "chars":
+            ["\ue100\ue101\ue102\ue103",
+             "\ue104\ue105\ue106\ue107",
+             "\ue108\ue109\ue110\ue111",
+             "\ue112\ue113\ue114\ue115",
+             "\ue116\ue117\ue118\ue119",
+             "\ue120\ue121\ue122\ue123"]
+        },
+        {"type":"bitmap", "file":"font/emotes/site03.png","ascent":7, "height":8, "chars":
+            ["\ue200\ue201\ue202\ue203",
+             "\ue204\ue205\ue206\ue207",
+             "\ue208\ue209\ue210\ue211",
+             "\ue212\ue213\ue214\ue215"]
+        },
+        {"type":"bitmap", "file":"font/emotes/limbs.png","ascent":7, "height":8, "chars":
+            ["\ue300\ue301\ue302\ue303",
+             "\ue304\ue305\ue306\ue307"]
+        },
+        {"type":"bitmap","file":"font/emotes/floophead.png", "ascent":7, "height":8, "chars":["\uefff"]},
+        {"type":"bitmap","file":"font/emotes/xtreemes.png", "ascent":7, "height":8, "chars":["\ueeff"]},
+        {"type":"bitmap","file":"font/emotes/endersaltz.png", "ascent":7, "height":8, "chars":["\ueeef"]},
+        {"type":"bitmap","file":"font/emotes/pixlii.png", "ascent":7, "height":8, "chars":["\ueeee"]},
+        
+        {"type":"bitmap","file":"font/leftwards_double_arrow.png", "ascent":7, "height":8, "chars":["⇐"]}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/barrier"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/none"},
+		{"predicate": {"custom_model_data":10}, "model" : "item/barrier"}
+
+	]
+}

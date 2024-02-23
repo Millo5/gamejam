@@ -1,0 +1,13 @@
+{
+  "advancements.toast.goal": "§fEquipped",
+  "advancements.toast.task": "§fEquipped",
+  "container.inventory": "",
+  "container.crafting": "",
+  "connect.aborted": "hi",
+  "connect.authorizing": "I cant wait to play Site-03!",
+  "connect.connecting": "Preparing to play Site-03!!!",
+  "connect.encrypting": "Readying up Site-03!",
+  "connect.failed": "Couldn't play site-03... wtf",
+  "connect.joining": "Be prepared for Site-03!",
+  "connect.negotiating": "Negotiating these nuts..."
+}

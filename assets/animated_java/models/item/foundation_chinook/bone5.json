@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"0": "animated_java:item/foundation_chinook/texture"
+	},
+	"elements": [
+		{
+			"from": [
+				-1,
+				8.5,
+				7
+			],
+			"to": [
+				8,
+				8.5,
+				9
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "z",
+				"origin": [
+					8,
+					8.5,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						2.25,
+						0
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						0.5,
+						0
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						2.25,
+						0
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						0.5,
+						0
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						6.5,
+						11.25,
+						4.25,
+						10.75
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						13,
+						5.75,
+						10.75,
+						6.25
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

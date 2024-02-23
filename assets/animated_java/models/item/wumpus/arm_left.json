@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"0": "animated_java:item/wumpus/wumpus"
+	},
+	"elements": [
+		{
+			"from": [
+				7,
+				4.5,
+				7
+			],
+			"to": [
+				9,
+				8.5,
+				9
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					11.5,
+					1.5,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						11,
+						5.5,
+						12,
+						7.5
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						11,
+						7.5,
+						12,
+						9.5
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						9,
+						11,
+						10,
+						13
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						11,
+						9.5,
+						12,
+						11.5
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						2,
+						14,
+						1,
+						13
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						3,
+						13,
+						2,
+						14
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
