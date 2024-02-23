@@ -18,12 +18,6 @@
              "\ue116\ue117\ue118\ue119",
              "\ue120\ue121\ue122\ue123"]
         },
-        {"type":"bitmap", "file":"font/emotes/site03.png","ascent":7, "height":8, "chars":
-            ["\ue200\ue201\ue202\ue203",
-             "\ue204\ue205\ue206\ue207",
-             "\ue208\ue209\ue210\ue211",
-             "\ue212\ue213\ue214\ue215"]
-        },
         {"type":"bitmap", "file":"font/emotes/limbs.png","ascent":7, "height":8, "chars":
             ["\ue300\ue301\ue302\ue303",
              "\ue304\ue305\ue306\ue307"]
