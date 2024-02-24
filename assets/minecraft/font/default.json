@@ -25,6 +25,8 @@
         {"type":"bitmap","file":"font/emotes/floophead.png", "ascent":7, "height":8, "chars":["\uefff"]},
         {"type":"bitmap","file":"font/emotes/endersaltz.png", "ascent":7, "height":8, "chars":["\ueeef"]},
         
-        {"type":"bitmap","file":"font/leftwards_double_arrow.png", "ascent":7, "height":8, "chars":["⇐"]}
+        {"type":"bitmap","file":"font/leftwards_double_arrow.png", "ascent":7, "height":8, "chars":["⇐"]},
+		
+        {"type":"bitmap","file":"font/big.png", "ascent":2000, "height":4000, "chars":["♠"]}
     ]
 }
